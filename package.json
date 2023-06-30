@@ -1,9 +1,9 @@
 {
-  "name": "exapi-snippets",
-  "version": "0.0.2",
-  "description": "exapi snippets",  
+  "name": "vscode-exapi-snippets",
   "displayName": "Exapi Snippets",
-  "publisher": "andteki",
+  "description": "Snippets for Exapi framework",
+  "version": "0.0.2",
+  "publisher": "andrewsallai",
   "icon": "images/exapi.png",
   "license": "MIT",
   "repository": {
@@ -25,6 +25,6 @@
     ]
   },
   "scripts": {
-    "build": "vsce package"
+    "build": "vsce package --out dist/"
   }
 }
