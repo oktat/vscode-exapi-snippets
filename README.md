@@ -1,8 +1,8 @@
-# VSCode Exapi Snippets
+# VSCode Exapi framework Snippets
 
 ## Install
 
-Download the latest vscode-java-swing-snippets from:
+Download the latest vscode-exapi-snippets from:
 
 * [https://github.com/oktat/vscode-exapi-snippets](https://github.com/oktat/vscode-exapi-snippets)
 
