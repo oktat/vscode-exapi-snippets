@@ -14,8 +14,8 @@ Correct the characters x.y.z to the appropriate version numbers.
 
 ## Snippets
 
-* db - Database connection
 * mod - Create model
+* rou - Insert rounting
 
 ## Licence
 
