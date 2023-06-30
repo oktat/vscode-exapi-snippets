@@ -2,7 +2,7 @@
   "name": "vscode-exapi-snippets",
   "displayName": "Exapi Snippets",
   "description": "Snippets for Exapi framework",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "andrewsallai",
   "icon": "images/exapi.png",
   "license": "MIT",
